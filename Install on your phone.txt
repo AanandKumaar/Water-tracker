@@ -1,0 +1,18 @@
+LITTLE BY LITTLE — INSTALLATION
+
+This is a personal, offline-friendly water tracker. Your goal and drink log stay in this browser on your phone.
+
+FIRST SETUP
+1. Put these five app files on a secure (HTTPS) static website, all in the same folder: index.html, water-reminder.html, manifest.webmanifest, sw.js, and icon.svg.
+2. Open the site while online. Wait a few seconds for the app to load and cache itself.
+3. Android: in Chrome, open the browser menu and choose “Install app” or “Add to Home screen”.
+4. Open the new home-screen app once. It will work offline after the first successful load.
+
+CUSTOM REMINDERS
+Turn on reminders, choose an interval (or a custom interval from 5 to 720 minutes), set active start/end times, and enter your own reminder message. Allow notifications if prompted. Reminders run while the app is open; phones may pause them in the background.
+
+DARK MODE
+Use the Dark mode button at the top of the app. Your choice is saved on this device.
+
+PRIVACY
+Drink entries, preferences, and the daily goal are saved locally in the browser on your device. There is no account or server-side tracking. Clearing browser site data will erase the log.
