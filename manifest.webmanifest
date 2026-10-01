@@ -1,0 +1,12 @@
+{
+  "name": "Little by Little — Water Tracker",
+  "short_name": "Water Tracker",
+  "description": "A private, offline-friendly water tracker and reminder.",
+  "start_url": "./water-reminder.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfdfb",
+  "theme_color": "#e8f6f4",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
